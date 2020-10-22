@@ -28,11 +28,11 @@ I call DeFi the “Financial Operating System” or FOS. While the Financial Sys
 
 As everything gets digitised and automated, it’s only a matter of time until we see the functions mentioned above face the same fate. The foundational technologies and architecture required to make that vision a reality is already here, and the minds needed to implement said vision are heads down working tirelessly.
 
-##### *Ask yourself this:*
+*Ask yourself this:*
 
 Would you want to save money, trade stocks, buy property, get insurance, make transactions, lend money, with the permission of a centralised corporation that can change or shut down at any moment, a centralised corporation that risks your money for their benefit, a centralised corporation that charges you fees and sets restrictions on money you’ve earned,
 
-##### *OR*
+*OR*
 
 a permissionless, transparent ledger run by immutable code and governed by a network whose incentives are tightly aligned to protect said ledger?
 
@@ -40,7 +40,7 @@ I’d personally pick the latter. Unlike CeFi, DeFi also enables unparalleled ac
 
 Let’s go deeper into the functions mentioned above with examples of CeFi institutions as compared to their “protocolised” counterparts. While looking at these alternatives, keep in mind that they’re decentralised, governed by entities and people all around the world, not a single corporation. Some of them are even governance-free, meaning they never change, enabling you to have confidence on the services you use.
 
-### Money
+#### Money
 
 While money is traditionally issued by central banks, in DeFi its issued by either a company, non-profit foundation, DAO (Decentralised Autonomous Organisation), or an individual. What separates money issued here from its traditional counterpart is that its governed either in a decentralised manner by those whose interests are aligned with said money, or in a completely automated way with self-enforcing code.
 
@@ -49,7 +49,7 @@ Centralised: ``Dollar, Euro, Pound, Rupee.``
 Decentralised alternative/s: ``Dai, Bitcoin, Ether, Ampleforth, etc.``
 
 
-### Central Banks
+#### Central Banks
 
 While central banking is exclusive to the traditional financial system, DeFi doesn’t require it. In most money protocols, the functions that a central bank would traditionally conduct are self-enforced by the code. Although, in protocols where there’s a need for external governance, monetary policy functions are conducted by DAOs or Decentralised Autonomous Organisations.
 
@@ -58,28 +58,28 @@ Centralised: ``Federal Reserve for the Dollar, Reserve Bank of India for the Rup
 Decentralised alternative/s: ``MakerDAO for DAI, Reserve for RSV, Meta for mStable.``
 
 
-### Commercial Banks
+#### Commercial Banks
 
-Centralised: ``Bank of America, Wells Fargo, Citigroup, HSB.``
+Centralised: ``Bank of America, Wells Fargo, Citigroup, HSBC.``
 
 Decentralised alterative/s: ``Compound, Bzrx, Aave, Dharma.``
 
 
-### Investment Banks
+#### Investment Banks
 
 Centralised: ``Goldman Sachs, JP Morgan, Deutsche Bank, Morgan Stanley.``
 
 Decentralised alterative/s: ``Synthetix, UMA, Dydx, Polymath.``
 
 
-### Exchanges
+#### Exchanges
 
 Centralised: ``NYSE, NASDAQ, CBOE, NSE.``
 
 Decentralised alterative/s: ``Uniswap, 0x, Curve, Synthetix.``
 
 
-### Brokers
+#### Brokers
 
 While the functions of exchanges and brokers are independent of each other in the centralised world of finance, DeFi doesn’t separate the two. Trade takes place directly on the exchanges. Although the closest entities to brokers in DeFi would be relayers and interfaces.
 
@@ -88,21 +88,21 @@ Centralised: ``Robinhood, eToro, Charles Schwab, Fidelity.``
 Decentralised alternative/s: ``Zerion, Zapper, Matcha, 1inch.``
 
 
-### Asset Management
+#### Asset Management
 
 Centralised: ``Blackstone, Blackrock, Vanguard.``
 
 Decentralised alterative/s: ``Yearn, Melon, Set Protocol.``
 
 
-### Insurance
+#### Insurance
 
 Centralised: ``Geico, AXA, State Farm, Allstate.``
 
 Decentralised alternative/s: ``Nexus Mutual, yInsure, Opyn.``
 
 
-### Payment Gateways
+#### Payment Gateways
 
 Centralised: ``Stripe, Paypal, Square, Venmo.``
 
